@@ -1,6 +1,11 @@
-# Useful-Linux-Scripts
+# Useful-Linux-Scripts And Ubuntu-Install-Scripts
 Useful scripts I've stumbled upon on the internet ( for Linux, specially *ubuntu )
 
+ - Install Scripts
+  Bash scripts that automate some common software installations like xampp,node,git,etc.
+
+ - Credits:
+ 
  - [Ubuntu Java Installer (ujavainstaller.sh)](https://github.com/AdamScheller/UbuntuJavaInstaller)
   Bash script that automates installation of Oracle Java (JDK) on Ubuntu Linux and its derivatives (like Linux Mint).
 
